@@ -8,8 +8,14 @@
   color: #ff7f50;
   background-color: #ecf0f3;
 }
+.heading{
+  text-align: center;
+  font-size: 120px;
+  color: #ff7f50;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
 .container{
-  height: 100vh;
+  height: 70vh;
   display: flex;
   justify-content: center;
   align-items: center;
