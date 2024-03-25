@@ -87,7 +87,7 @@ button:active {
 }
 
 .equal {
-    grid-column: span 4;
+    /* grid-column: span 4; */
     background-color: #4caf50;
     color: #fff;
 }
